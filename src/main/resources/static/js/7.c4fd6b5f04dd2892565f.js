@@ -1,0 +1,2 @@
+webpackJsonp([7],{GHKj:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n\tThis is Main\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"Main",data:function(){return{}}},i,!1,function(n){t("PD1M")},null,null);e.default=r.exports},PD1M:function(n,e){}});
+//# sourceMappingURL=7.c4fd6b5f04dd2892565f.js.map
